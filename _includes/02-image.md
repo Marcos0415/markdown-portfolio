@@ -1,3 +1,4 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.![Capture gd y](https://user-images.githubusercontent.com/94558746/144297045-89abc24d-8ede-4bfa-8df5-7d14760408d0.PNG)
-![224](https://user-images.githubusercontent.com/94558746/144297063-9ba0049f-7a1d-471f-96b7-d748e0747ca0.jpg)
-![EMMI 5](https://user-images.githubusercontent.com/94558746/144297084-fb984d22-11fb-404d-9441-987c5434aa72.png)
+![EMMI 5](https://user-images.githubusercontent.com/94558746/144297226-7b9f05bf-a598-46de-88e1-635d832e3f8c.png)
+![xwave](https://user-images.githubusercontent.com/94558746/144297235-4137b3e8-133a-4423-8ae9-7ff19b12f59e.png)
+![224](https://user-images.githubusercontent.com/94558746/144297247-5ed5f9bb-a966-4c09-87eb-7e608d22bf51.jpg)
+
