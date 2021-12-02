@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite sport is American Football
+My favorite place to eat is Longhorns Steakhouse
+My favorite video game is Metroid Dread
+My favorite singer is Miku Hatsune
