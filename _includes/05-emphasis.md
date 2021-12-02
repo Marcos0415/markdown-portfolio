@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- *I'm good at problem solving*
+- _I can speak both English and Spanish_
+- *I am very good at figuring out video games and beating them*
