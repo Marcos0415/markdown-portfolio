@@ -1,4 +1,4 @@
-My favorite sport is American Football
-My favorite place to eat is Longhorns Steakhouse
-My favorite video game is Metroid Dread
-My favorite singer is Miku Hatsune
+-My favorite sport is American Football
+-My favorite place to eat is Longhorns Steakhouse
+-My favorite video game is Metroid Dread
+-My favorite singer is Miku Hatsune
